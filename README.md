@@ -22,8 +22,8 @@
 Aqui estão alguns dos meus projetos:
 
 1. **Cafe Expresso Ltda.** - Site para uma cafeteria fictícia.
-<!--2. **[Nome do Projeto 2](#)** - Descrição breve do projeto.
-3. **[Nome do Projeto 3](#)** - Descrição breve do projeto. -->
+2. **Ebook** - Página para download de um ebook.
+3. **FitClub** - Landing page para uma academia fictícia. 
 
 ⚡ Explore meus repositórios para ver mais sobre meus projetos!
 
