@@ -1,37 +1,34 @@
-# Olá! Eu sou Gustavo Baister 👋
+## Olá, meu nome é Gustavo Baister!
 
-## Sobre mim
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-🎓 Estou no terceiro semestre de **Análise e Desenvolvimento de Sistemas**, com grande interesse em desenvolvimento web. Meus projetos incluem **HTML, CSS, Responsividade** e uso de ferramentas como **Figma** para criar designs modernos e funcionais.
+<p align="left"> 
+  Opa! Tudo bem? Me chamo Gustavo Baister e sou um desenvolvedor C#, no momento estou desenvolvendo <strong>back-end</strong>.<br>
+  No momento, sou um estudante de Análise e Desenvolvimento de Sistemas.
+</p>
 
-📈 Tenho experiência principalmente em **HTML** e **CSS**, focando na criação de interfaces responsivas. Embora eu esteja começando a explorar **JavaScript** e **Python**, estou constantemente aprendendo e evoluindo.
+<p align="left">
+  🦄 Linguagens: C#, Python
+</p>
 
-## Habilidades 💻
+<p align="left">
+  💼 Ferramentas: Visual Studio, Visual Studio Code, Git.
+</p>
 
-- 🌐 **HTML & CSS:** Desenvolvimento de interfaces modernas e responsivas.
-- 🎨 **Figma:** Prototipação e design de interfaces.
-- 📱 **Responsividade:** Criação de layouts adaptados para diversos dispositivos.
-- 🚀 **JavaScript & Python:** Explorando e aprendendo novas funcionalidades e automações.
+<p align="left">
+  💌 Para entrar em contato: ⤵️
+</p>
 
-## Objetivo 🎯
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavobaister@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <a href="#" title="Instagram">
+</p>
 
-🔍 Estou à procura de **trabalhos como freelancer**, onde posso aplicar e aprimorar minhas habilidades em desenvolvimento web. Sou motivado por desafios que me permitam aprender e crescer como desenvolvedor.
+### ⚙️ GitHub Analytics
+[![baister](https://github-readme-stats.vercel.app/api?username=baister&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos 💼
-
-Aqui estão alguns dos meus projetos:
-
-1. **Cafe Expresso Ltda.** - Site para uma cafeteria fictícia.
-2. **Ebook** - Página para download de um ebook.
-3. **FitClub** - Landing page para uma academia fictícia. 
-
-⚡ Explore meus repositórios para ver mais sobre meus projetos!
-
-## Contato 📫
-
-- [LinkedIn](https://www.linkedin.com/in/gustavo-baister/)
-- [Email](gustavobaister@gmail.com)
-
----
-
-✨ Obrigado pela visita e vamos criar algo incrível juntos!
+[![baister](https://github-readme-stats.vercel.app/api/top-langs/?username=baister&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
