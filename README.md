@@ -3,16 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Opa! Tudo bem? Me chamo Gustavo Baister e sou um desenvolvedor C#, no momento estou desenvolvendo <strong>back-end</strong>.<br>
-  No momento, sou um estudante de Análise e Desenvolvimento de Sistemas.
+  Olá, meu nome é Gustavo e seja bem-vindo ao meu perfil! Nele há alguns projetos em Java e em Python. No momento ainda estou aprendendo Java para me tornar um profissional em Backend Java.
 </p>
 
 <p align="left">
-  🦄 Linguagens: C#, Python
+  🦄 Linguagens: Java, Python.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio, Visual Studio Code, Git.
+  💼 Ferramentas: Visual Studio, IntelliJ, Git.
 </p>
 
 <p align="left">
@@ -29,6 +28,4 @@
 </p>
 
 ### ⚙️ GitHub Analytics
-[![baister](https://github-readme-stats.vercel.app/api?username=baister&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![baister](https://github-readme-stats.vercel.app/api/top-langs/?username=baister&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Baister&theme=kanagawa-paper)](https://git.io/streak-stats)
