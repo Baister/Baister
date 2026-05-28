@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, Python.
+  🦄 Linguagens: Java, Python, C#, JavaScript.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio, IntelliJ, Git.
+  💼 Ferramentas: Visual Studio, IntelliJ, Git, VS Code.
 </p>
 
 <p align="left">
