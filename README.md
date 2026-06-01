@@ -1,31 +1,75 @@
-## Olá, meu nome é Gustavo Baister!
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a5c,100:2176ae&height=120&section=header"/>
 
-<p align="left"> 
-  Olá, meu nome é Gustavo e seja bem-vindo ao meu perfil! Nele há alguns projetos em Java e em Python. No momento ainda estou aprendendo Java para me tornar um profissional em Backend Java.
+![Profile Views](https://komarev.com/ghpvc/?username=Baister&color=58a6ff&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Baister?style=flat-square&color=58a6ff&label=Followers)
+
+<br/>
+
+## Hi! 👋 I'm **Gustavo Baister**
+
+<p align="center">
+  <em>Junior Software Developer focused on Backend Java, building robust and scalable solutions.<br/>
+  Constantly learning and sharpening my skills through real-world projects and platforms.</em>
 </p>
 
-<p align="left">
-  🦄 Linguagens: Java, Python, C#, JavaScript.
+---
+
+### 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,js,html,css&theme=dark" />
 </p>
 
-<p align="left">
-  💼 Ferramentas: Visual Studio, IntelliJ, Git, VS Code.
+---
+
+### 🗄️ Database & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
 </p>
 
-<p align="left">
-  💌 Para entrar em contato: ⤵️
+---
+
+### ☁️ Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
 </p>
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gustavobaister@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <a href="#" title="Instagram">
+---
+
+### 🛠️ Tools & Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,debian,windows&theme=dark" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" width="48" height="48" alt="NetBeans"/>
 </p>
 
-### ⚙️ GitHub Analytics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Baister&theme=kanagawa-paper)](https://git.io/streak-stats)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Baister&theme=github-dark-blue&border=30363d&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</p>
+
+---
+### 📬 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gustavo-baister">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gustavobaister@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2176ae,50:1a3a5c,100:0a1628&height=80&section=footer"/>
+
+</div>
