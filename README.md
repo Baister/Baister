@@ -4,32 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
-🌐 **[Português](#-sobre-mim)** | **[English](#-about-me)**
-
-### 🇧🇷 Sobre mim
-
-Backend Developer focado em **Java** e **Spring Boot**, construindo APIs REST com arquitetura em camadas, padrão DTO, autenticação JWT e deploy em nuvem.
-
-Atuo como Auxiliar de TI na **Diproseg Penha** (São Paulo), onde tenho contato direto com bancos de dados relacionais e AWS no dia a dia, e curso **Backend Java Developer no SENAI** (presencial, noturno). Sou bacharel em Análise e Desenvolvimento de Sistemas pela **Universidade Anhembi Morumbi**.
-
-Gosto de construir projetos completos — da modelagem do banco ao deploy em produção, com Docker e AWS.
-
-- 🔭 Construindo no momento: APIs REST com Spring Boot, Spring Security e PostgreSQL
-- 🌱 Aprofundando: testes automatizados (JUnit/Mockito)
-- 👯 Aberto a oportunidades como **Backend Java Developer**
-- 💬 Pergunte-me sobre: Spring Boot, JPA/Hibernate, JWT, Docker e AWS
-
-#### 🚀 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| 🎬 **Cinema API** | API REST completa de reservas de cinema (filmes, salas, sessões e assentos), com Spring Boot 4, JWT, PostgreSQL, upload de pôster no S3 e deploy na AWS via Docker |
-| 📍 **Buscador de CEP** | Aplicação Java que consome a API pública ViaCEP usando `HttpClient` nativo e Gson |
-| ✅ **To-Do List API** | API REST de tarefas com Spring Boot, Spring Data JPA, H2 e documentação via Swagger |
-
-> ⚠️ Troque os nomes acima por links para os repositórios reais, por exemplo: `🎬 [Cinema API](https://github.com/Baister/nome-do-repo)`. Assim que estiverem como link, aparecem clicáveis pra quem estiver lendo.
-
----
+🌐 **[English](#-about-me)**
 
 ### 🇺🇸 About me
 
